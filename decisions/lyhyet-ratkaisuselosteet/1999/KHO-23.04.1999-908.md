@@ -1,0 +1,25 @@
+---
+identifier: "KHO 23.04.1999/908"
+court: "Korkein hallinto-oikeus"
+kind: "lyhyet-ratkaisuselosteet"
+docket: "2965/1/98"
+decided: "1999-04-23"
+volume: "908"
+keywords: "Kunnallisasia , "
+source_url: "https://www.finlex.fi/fi/oikeuskaytanto/korkein-hallinto-oikeus/lyhyet-ratkaisuselosteet/1999/908"
+source: "Finlex (www.finlex.fi), Ministry of Justice of Finland"
+licence: "CC BY 4.0"
+source_retrieved: "2026-11-07"
+cites_law: ["finland/national/acts/kuntalaki/pykala-045.md"]
+---
+
+# KHO 23.04.1999/908
+
+## Suomeksi
+
+Kaupunginhallitus oli 21.12.1995 irtisanonut kaupungingeodeetin kaupunginvaltuuston 30.11.1995 hyväksymän virkasäännön 13 §:n 2 momentin perusteella, koska hänen hoitamansa virka oli lakkautettu.
+Suomen Hallitusmuodon perusoikeussäännökset uudistettiin 17.7.1995 annetulla lailla. Hallitusmuodon 1.8.1995 voimaan tulleen 15 §:n 3 momentin mukaan ketään ei saa ilman lakiin perustuvaa syytä erottaa työstä. Perusoikeusuudistukseen ei sisältynyt nimenomaisia säännöksiä uudistuksen voimaansaattamista koskevasta siirtymäajasta. Hallitusmuodon perusoikeussäännösten voimaantulon 1.8.1995 jälkeen kunnallisten viranhaltijoiden irtisanomisperusteet olivat siis edelleen kuntalain 45 §:n 2 momentin 1 kohdan nojalla annetuissa kuntien ja kuntayhtymien virkasäännöissä, kunnes kunnallisen viranhaltijan palvelussuhdeturvasta annettu laki (484/1996) tuli voimaan 1.7.1996.
+Kaupungin virkasääntö, johon sisältyvät myös määräykset viranhaltijan irtisanomisperusteista, on hyväksytty 30.11.1995 ja siten hallitusmuodon uudistetun perusoikeusluvun voimaantulon jälkeen, vaikka hallitusmuodon 15 §:n 3 momentti edellyttää, että irtisanomisperusteista säädetään laissa.
+Korkein hallinto-oikeus on erään toisen valituksen johdosta antamassaan päätöksessä 15.5.1998 taltio 930 katsonut, että kaupungin virkasäännön 13 §:n 2 momentin 1 kohta olisi tullut jättää hallitusmuodon 15 §:n 3 momentin vastaisena soveltamatta. Tuossa asiassa oli kysymys säännönmukaisen muutoksenhakuajan kuluessa tehtyyn valitukseen annetusta päätöksestä. Asiaa ratkaistaessa toimitettiin äänestys osan jäsenistä katsoessa, että virkasäännön sanottua määräystä viran lakkauttamisesta irtisanomisperusteena oli ollut sovellettava.
+Mainitusta päätöksestä ja myös korkeimman hallinto-oikeuden sittemmin vuosikirjoissa julkaistuista, samoin äänestyksen jälkeen annetuista päätöksistä 21.10.1997 taltio 2633 ja 14.11.1997 taltio 2902 ilmenee, että kysymys kuntien virkasääntöjen irtisanomista koskevien määräysten soveltamisesta perusoikeusuudistuksen voimaantulon 1.8.1995 ja kunnallisen viranhaltijan palvelussuhdeturvasta annetun lain voimaantulon 1.7.1996 välisenä aikana on ollut nimenomaisten siirtymäsäännösten puuttuessa tulkinnanvarainen.
+Purkuhakemusta ratkaistaessa oli otettava huomioon, että nyt oli kysymys säännönmukaisen valitusajan jälkeen tehdystä ylimääräisestä muutoksenhausta. Lainvoimainen päätös voidaan hallintolainkäyttölain 63 §:n 1 momentin 2 kohdan mukaan purkaa, jos päätös perustuu ilmeisesti väärään lain soveltamiseen tai erehdykseen, joka on voinut vaikuttaa olennaisesti päätökseen. Kun päätöksen purkaminen ylimääräisen muutoksenhaun johdosta edellyttää, että lakia on sovellettu ilmeisen virheellisesti, irtisanomista koskevan päätöksen purkamiseen ei ollut hallintolainkäyttölain 63 §:n 1 momentin 2 kohdassa tarkoitettuja perusteita.
