@@ -1,0 +1,35 @@
+---
+identifier: "KHO 29.10.2008/2718"
+court: "Korkein hallinto-oikeus"
+kind: "lyhyet-ratkaisuselosteet"
+docket: "2052"
+decided: "2008-10-29"
+volume: "2718"
+keywords: "Jätelainsäädäntö , "
+source_url: "https://www.finlex.fi/fi/oikeuskaytanto/korkein-hallinto-oikeus/lyhyet-ratkaisuselosteet/2008/2718"
+source: "Finlex (www.finlex.fi), Ministry of Justice of Finland"
+licence: "CC BY 4.0"
+source_retrieved: "2026-11-07"
+---
+
+# KHO 29.10.2008/2718
+
+## Suomeksi
+
+Alueellinen ympäristökeskus velvoitti A Oy:n ja B Oy:n alueen aikaisempina toiminnan harjoittajina, C Oy:n nykyisenä puunkyllästämötoiminnan harjoittajana ja alueen haltijana sekä alueella samaa toimintaa vuonna 1989 harjoittaneen, vuonna 1993 lakanneen D Oy:n sijasta N:n kaupungin yhdessä selvittämään N:n kaupungissa vedenhankinnan kannalta tärkeällä pohjavesialueella sijaitsevien, puunkyllästämötoiminnassa pilaantuneiden alueiden laajuuden, maaperän pilaantumisen asteen ja puhdistamistarpeen määräajassa kullekin velvoitetulle asetetun sakon uhalla. Määräys koski myös pohjavettä. Mikäli selvitys osoitti puhdistamistarpeen, siihen oli liitettävä myös alustava suunnitelma pilaantuneen maaperän ja pohjaveden puhdistamisesta.
+Hallinto-oikeus N:n kaupungin valituksesta kumosi ympäristökeskuksen kaupunkia koskevan päätöksen. Hallinto-oikeus lausui vastuujärjestelmän lainsäädännössä rakentuneen siten, että ensisijainen vastuu on aiheuttamisperiaatetta noudattaen kohdistettava pilaantumisen aiheuttajaan. Aiheuttajan vastuuta on täydennetty alueen haltijan toissijaisella vastuulla ja kunnan täydentävällä vastuulla. Puhdistamisvastuun porrastamisella on ollut tarkoitus varmistaa vastuujärjestelmän aukottomuus siten, ettei maaperä jää pilaantuneeksi ja hallitsemattomaan tilaan, kun pilaajaa ei tunneta tai tavoiteta. Kun A Oy, B Oy ja C Oy ovat ensisijaisesti velvollisia alueen pilaantumisen selvittämiseen, N:n kaupungilla ei ole näissä oloissa viimesijaisen vastuunsa perusteella puhdistamisvastuuta eikä siten selvittämisvelvollisuuttakaan. Myöskään yleinen kohtuusharkinta ei edellytä toisenlaista vastuunjakoa. Siten N:n kaupunkia ei ole voitu velvoittaa ympäristökeskuksen päätöksessä tarkoitettuihin selvittämisvastuisiin.
+A Oy:n, B Oy:n ja C Oy:n valituksista, valitukset muutoin hyläten ja pidentäen valitusmenettelyn velvoitteiden täyttämisen määräaikaa, hallinto-oikeus lisäsi ympäristökeskuksen yhtiöitä koskeviin päätöksiin selvittämisvastuun jakautumista koskevan seuraavan määräyksen: "Asian tässä vaiheessa A Oy, B Oy ja C Oy ovat velvollisia osallistumaan selvittämiskustannuksiin ja mahdollisen alustavan kunnostussuunnitelman laatimiskustannuksiin kukin 1/3 osalla edellä mainituista kustannuksista. Lopullinen vastuu selvittämiskustannuksista ja alustavan kunnostussuunnitelman laatimisesta aiheutuneista kustannuksista jakautuu A Oy:n, B Oy:n ja C Oy:n kesken puhdistamisvastuun jakautumisen mukaisessa suhteessa. Mikäli puhdistamiseen ei selvityksen jälkeen tarvitse ryhtyä, voi nyt tehtyyn kustannusten jakoon tyytymätön saattaa selvityskustannusten jakoa koskevan vaatimuksen erikseen ympäristökeskuksen ratkaistavaksi."
+Velvoitteiden pysyttämisen osalta hallinto-oikeus lausui muun ohella, että kun otetaan huomioon A Oy:n, B Oy:n ja C Oy:n kunkin alueella eri aikoina harjoittama, vuodesta 1958 lähes yhtäjaksoisesti jatkunut ja edelleen jatkuva kyllästämötoiminta, muu alueen pitkä käyttö- ja toimintahistoria sekä tähänastisista selvityksistä saadut tiedot alueen pilaantumisesta sekä se, että kyllästämötoiminta jo sinänsä on luonteensa puolesta ollut omiaan aiheuttamaan ilmeistä pilaantumista, maaperän todennäköistä pilaantumista on tapahtunut kyllästämöalueella kunkin edellä mainitun toiminnanharjoittajan toiminnan aikana.
+Koska A Oy, B Oy ja C Oy ovat siis kukin omalla toiminnallaan todennäköisesti aiheuttaneet maaperän pilaantuneisuutta, ja kun jo ensimmäisen toiminnanharjoittajan B Oy:n pilaantumista aiheuttanut toiminta alueella on jatkunut jätehuoltolain (673/1978) voimaantulon 1.4.1979 jälkeen 30.6.1987 saakka, on yhtiöille voitu asettaa jätehuoltolain roskaamiskieltosäännösten, jätelain maaperän saastuttamiskieltosäännösten ja puhdistamisvelvollisuutta koskevien säännösten sekä ympäristösuojelulain 75 ja 77 §:n ja mainittuihin säännöksiin perustuvan aiheuttajan ensisijaisen vastuun perusteella ympäristökeskuksen päätöksissä tarkoitetut selvitysvelvollisuudet ja uhkasakot. Koska mahdollisen alustavan kunnostussuunnitelman laatiminen on osa selvittämisvelvollisuutta, sitä koskeva velvoite on voitu antaa pilaantumisesta osaltaan vastuussa oleville yhtiöille jo ennen mahdollista varsinaista puhdistamismääräystä.
+Pohjaveden mahdollinen pilaantuminen on aiheutunut maaperän pilaantumisen kautta. Tämän vuoksi kysymyksessä on ensisijaisesti maaperän pilaantuminen, johon nähden pohjaveden mahdollinen pilaantuminen on liitännäinen ilmiö. Siten asiassa tulevat sovellettaviksi myös pohjaveden osalta maaperän pilaantumisen selvittämisvelvollisuutta koskevat säännökset.
+Selvittämisvastuun jakautumisen osalta hallinto-oikeus muun ohella lausui, että yhtiöillä on kullakin itsenäinen velvollisuus pilaantuneisuuden selvittämiseen. Pilaantuneisuuden ja puhdistamistarpeen selvittäminen edellyttää yhtiöiden yhteistoimintaa ympäristökeskuksen valvomalla tavalla. Tämän vuoksi yhtiöt on velvoitettu asian tässä vaiheessa täyttämään selvittämisvelvollisuutensa yhteisesti siten, että kukin yhtiö on velvollinen osallistumaan kolmasosalla selvittämiskustannuksista. Vasta asianmukaisen selvityksen jälkeen on pääteltävissä, kuinka laajasti pilaantumista on tapahtunut, mikä on puhdistamistarve sekä millaisia kunnostustoimenpiteitä alueella on tehtävä ja mitä määräyksiä puhdistamisesta on tarpeen antaa. Nämä selvitykset ovat osa puhdistamisvastuuta. Tämän vuoksi selvityskustannukset ja alustavasta kunnostussuunnitelmasta aiheutuvat kustannukset on jaettava kolmen yhtiön kesken samassa suhteessa kuin puhdistamiskustannuksetkin.
+Asian tässä vaiheessa ei voitu määrätä tarkemmin selvittämiskustannusten lopullisesta jakautumisesta eri toimijoiden kesken.
+Korkein hallinto-oikeus, velvoitteiden täyttämiselle asetettua määräaikaa pidentäen sekä hallinto-oikeuden päätöksen lopputuloksen ja perustelut pysyttäen hylkäsi A Oy:n ja B Oy:n hallinto-oikeuden päätöksestä tekemät valitukset, joissa yhtiöt olivat vaatineet hallinto-oikeuden ja ympäristökeskuksen päätösten kumoamista paitsi itseään koskevilta osiltaan, B Oy myös siltä osalta kuin hallinto-oikeus oli päätöksellään hyväksynyt N:n kaupungin valituksen ja kumonnut kaupungille asetetun hallintopakkoa koskeneen ympäristökeskuksen päätöksen.
+
+                    Jätehuoltolaki 32 § (673/1978) ja 32 § (203/1987), 33 § 1 mom., 33 § 2 mom. (65/1986), 33 § 3 mom. (65/1986), 33 § 4 mom.
+
+                    Jätelaki (1072/1993) 22 § 1 ja 2 mom., 23 § 1 mom., 24 § (63/1995) ja 77 § 2 mom.
+
+                    Laki ympäristönsuojelulainsäädännön voimaanpanosta (113/2000) 22 § 1 mom.
+
+                    Ympäristönsuojelulaki (86/2000) 75 § ja 77 § 1 mom. (252/2005)
