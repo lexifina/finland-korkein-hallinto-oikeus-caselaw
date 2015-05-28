@@ -1,0 +1,92 @@
+---
+identifier: "KHO 28.5.2015/1420"
+court: "Korkein hallinto-oikeus"
+kind: "muut-paatokset"
+docket: "426/2/14"
+decided: "2015-05-28"
+volume: "1420"
+keywords: "Tavaramerkin rekisteröintiä koskeva valitusasia"
+source_url: "https://www.finlex.fi/fi/oikeuskaytanto/korkein-hallinto-oikeus/muut-paatokset/2015/1420"
+source: "Finlex (www.finlex.fi), Ministry of Justice of Finland"
+licence: "CC BY 4.0"
+source_retrieved: "2026-11-07"
+cites_law: ["finland/national/acts/tavaramerkkilaki/pykala-013.md", "finland/national/acts/tavaramerkkilaki/pykala-019.md"]
+---
+
+# KHO 28.5.2015/1420
+
+## Suomeksi
+
+Asia
+                     Tavaramerkin rekisteröintiä koskeva valitus
+
+Valittaja
+                     Valio Oy, Helsinki
+
+Päätös, jota valitus koskee
+Patentti- ja rekisterihallituksen valituslautakunta 5.12.2013 nro 2011/T/084
+Asian aikaisempi käsittely
+Patentti- ja rekisterihallitus
+                     on 17.8.2011 tekemällään päätöksellä osittain hylännyt Valio Oy:n 18.1.2011 tekemän hakemuksen nro T201100136, joka on koskenut tavaramerkin VALIO KOTIRUOKAA rekisteröintiä seuraaville tavaroille ja palveluille:
+
+Luokka 9 Elektroniset julkaisut (ladattavat).
+Luokka 16 Paperi, pahvi ja niistä tehdyt tavarat, jotka eivät sisälly muihin luokkiin; painotuotteet; neuvonta- ja opetusvälineet (paitsi laitteet).
+Luokka 41 Koulutus; koulutuksen järjestäminen; ajanviete; urheilu- ja kulttuuritoiminnat.
+Luokka 43 Ravitseminen.
+Hakemus on hylätty luokan 9, luokan 16 "painotuotteet", luokan 41 "koulutus; koulutuksen järjestäminen" ja luokan 43 osalta.
+Rekisteröitäväksi haettu merkki on Patentti- ja rekisterihallituksen päätöksen perustelujen mukaan hylätyiltä osin ilman erottamiskykyä ilmaistessaan tavaroiden ja palvelujen lajia ja laatua. Valio tarkoittaa muun muassa ryhmänsä, lajinsa, rotunsa tai muun sellaisen parhaisiin kuuluvaa yksilöä. Haettu merkki VALIO KOTIRUOKAA ilmaisee, että kysymyksessä on esimerkiksi parasta kotiruokaa käsittelevä julkaisu, parhaan kotiruoan ruoanlaittokurssi tai parasta kotiruokaa tarjoava ravintola.
+Hakija on vastauksessaan viitannut laajalti tunnettujen merkkien luetteloon hyväksyttyyn tavaramerkkiin nro 2007025 VALIO. VALIO-merkki on hyväksytty luetteloon luokkiin 29 ja 32 kuuluvien tavaroiden osalta. VALIO-merkin hyväksyminen laajalti tunnettujen merkkien luetteloon tiettyjen tuotteiden osalta ei vielä osoita, että haettu merkki olisi tullut erottamiskykyiseksi nyt kysymyksessä olevien tavaroiden ja palveluiden osalta.
+Patentti- ja rekisterihallituksen soveltamat oikeusohjeet
+Tavaramerkkilaki 13 §
+Patentti- ja rekisterihallituksen valituslautakunnan ratkaisu
+Valituslautakunta
+                     on valituksenalaisella päätöksellään hylännyt yhtiön valituksen ja pysyttänyt Patentti- ja rekisterihallituksen päätöksen perusteluineen.
+
+Käsittely korkeimmassa hallinto-oikeudessa
+Yhtiö
+                     on valituksessaan vaatinut, että Patentti- ja rekisterihallituksen ja valituslautakunnan päätökset kumotaan siltä osin kuin hakemus on hylätty luokassa 16 tavaralajille "painotuotteet".
+
+Yhtiö on vaatimuksensa perusteeksi viitannut Patentti- ja rekisterihallitukselle ja valituslautakunnalle esittämäänsä sekä esittänyt muun ohella seuraavaa:
+Tavaramerkin katsotaan olevan erottamiskykyinen silloin, kun se kykenee erottamaan haltijansa tavarat tai palvelut muista vastaavista. Erottamiskykyinen merkki pystyy ilmaisemaan tavaroiden tai palveluiden alkuperää eli sitä, että sillä merkityt tavarat tai palvelut ovat lähtöisin samalta elinkeinonharjoittajalta. Kun alkujaan erottamiskyvytön sanamerkki saavuttaa käytön myötä riittävän erottamiskyvyn, se irtaantuu sanan alkuperäisestä yleiskielisestä merkityksestä. Ilmaisun vakiintuminen tiettyjen tavaroiden tai palvelujen tavaramerkiksi aiheuttaa sen, että ilmaisulle vakiintuu niin sanottu toissijainen merkitys suhteessa tavaroihin tai palveluihin. Tästä on kysymys sanan VALIO osalta myös luokkaan 16 lukeutuvien tavaroiden "painotuotteet" osalta.
+VALIO on suomen kielessä irtaantunut sanan alkuperäisestä yleiskielellisestä merkityksestä ja saanut uuden, toissijaisen merkityksen. VALIO ei ole suomalaisille pelkästään laatusana, vaan se käsitetään yleisesti viittaukseksi yritykseen Valio Oy. Kun suomalainen kuluttaja havaitsee tavaramerkin VALIO KOTIRUOKAA painotuotteessa, sana VALIO merkin osana ei assosioi laatusanaan "valio" vaan kuluttaja ymmärtää tuotteen liittyvän nimenomaan yritykseen Valio Oy.
+Osoituksensa tästä yhtiö on oheistanut valitukseensa otteen 30.9.2013 Inspirans Oy:n laatiman Kvalitatiivisen tutkimuksen yhteenvedosta. Tutkimuksen tarkoituksena on ollut kartoittaa kuluttajapalautetta ja reagointia Valio-brändille suunniteltuun viestintään. Tutkimuksen pohjana oli kolme erilaista VALIO-slogania, joista yksi oli Parempi, paras, Valio. Yhteenvedon mukaan slogan ei avautunut yksiselitteisesti tarkoitetulla tavalla. Kuluttajat eivät ymmärtäneet sloganin vertailuasteikkoa. Se tulkittiin Valio Oy:n vertailuksi. Joidenkin palautteiden mukaan slogan on muun muassa "Omahyväinen julistus", "mainostaa parhaimpana itseään" ja "dissaa kilpailijoita". Tutkimustulokset ja kuluttajapalautteet vahvistavat käsitystä siitä, että sana "valio" mielletään suomalaisten kuluttajien keskuudessa yritykseksi Valio Oy, eikä sitä tunnisteta adjektiiviksi siitä huolimatta, että se esitetään kahden muun hyvää tarkoittavan adjektiivin rinnalla.
+VALIO on erottamiskykyinen merkki painotuotteille silläkin perusteella, että yhtiö on käyttänyt sitä säännöllisesti erilaisissa painotuotteissa ainakin vuodesta 1998 alkaen. Runsaan käytön seurauksena Patentti- ja rekisterihallitus on jo vuonna 2002 tavaramerkin nro 226177 VALIO Hyvää alusta alkaen rekisteröimisen yhteydessä ottanut vastaan nimenomaan sanaan VALIO liittyvän käyttömateriaalin ja hyväksynyt, että sana VALIO on vakiintunut Valion tavaramerkiksi luokan 16 tavaroille "painotuotteet". Tämä näyttömateriaali osoitti tuolloin ja osoittaa edelleen, että sana VALIO oli saavuttanut riittävän erottamiskyvyn painotuotteille. Muun muassa toimitetuissa vakiintumistodistuksissa kysyttiin ainoastaan sanan VALIO tunnettuutta painotuotteille. Vuoden 2002 jälkeenkin Valio on jatkanut merkin aktiivista käyttöä painotuotteiden tunnuksena, minkä seurauksena sen asema niiden tunnuksena on entisestään vahvistunut.
+VALIO on tänä päivänä yksi Suomen tunnetuimpia ja arvostetuimpia tavaramerkkejä. Tämän seurauksena keskivertokuluttaja yhdistää sanan VALIO välittömästi nimenomaan yhtiöön Valio Oy, ei ilmaisun vanhahtavaan merkitykseen laatua ilmaisevana sanana. Sana ei ole nykykielessä edes käytössä oleva laatusana ainakaan painotuotteista puhuttaessa. Mielleyhtymää yhtiöön Valio Oy vahvistaa entisestään se, että merkin loppuosa KOTIRUOKAA viittaa elintarvikkeisiin, joihin liittyvien tavaroiden tunnuksena VALIO on erityisen laajalti tunnettu tavaramerkki. Siltä osin kuin on kysymys näytöstä liittyen VALIO-tavaramerkin laajalti tunnettuuteen, yhtiö on viitannut Patentti- ja rekisterihallituksen ylläpitämään luetteloon laajalti tunnetuista tavaramerkeistä.
+Sanan VALIO erottamiskyvystä johtuen myös haettu merkki VALIO KOTIRUOKAA on kokonaisuutena arvioiden riittävän erottamiskykyinen luokan 16 tavaroiden "painotuotteet" tunnuksena.
+Patentti- ja rekisterihallitus
+                     on valituksen johdosta antamassaan lausunnossa katsonut, ettei valituksessa ole esitetty mitään sellaista, joka antaisi aiheen muuttaa valituksenalaista päätöstä.
+
+Patentti- ja rekisterihallitus on viitannut aikaisemmin esittämiinsä perusteluihin sekä esittänyt lisäksi seuraavaa:
+Tavaramerkki nro 226177, joka muodostuu sanasta VALIO ja lauseesta Hyvää alusta alkaen, ei ole suoraan verrattavissa nyt haettuun merkkiin, jonka sanat muodostavat yhden asiakokonaisuuden. Haetun merkin erottamiskyky on siten heikompi kuin merkin VALIO Hyvää alusta alkaen, jota myös pidettiin lähtökohtaisesti erottamiskyvyttömänä, mutta joka on rekisteröity käyttönäytön perusteella.
+Vaikka tavaramerkki olisi vakiintunut ja tullut erottamiskykyiseksi tiettyjen tavaroiden ja palveluiden osalta, tämä ei tarkoita, että se olisi tullut erottamiskykyiseksi kaikkien tavaroiden ja palveluiden osalta. Yhtiö ei ole näyttänyt, että VALIO olisi tullut erottamiskykyiseksi luokan 16 tavaroiden "painotuotteet" osalta siten, että se erottuisi sanakokonaisuudessa VALIO KOTIRUOKAA omaksi erottamiskykyiseksi elementiksi. Haetussa merkkikokonaisuudessa VALIO toimii sanaa KOTIRUOKA kuvailevana elementtinä.
+Yhtiö
+                     on vastaselityksessään toistanut valituksessaan esittämänsä vaatimukset perusteluineen sekä esittänyt muun ohella seuraavaa:
+
+Koska KOTIRUOKAA on terminä määrältään yksilöimätön, sanakirjatermi VALIO ei luontevasti edes sovi sen yhteyteen. Adjektiivina valio on spontaanissa arkikielessä hyvin harvinainen ja suorastaan ontuva sanavalinta kuvaamaan elintarvikealan tuotteita ja erityisesti painotuotteita. Termin käyttö adjektiivina on nykyään myös yleisellä tasolla vähäistä ja vanhahtavaa. Kun kiinnitetään vielä huomiota yhtiön VALIO-brändin suomalaisten kuluttajien keskuudessa saavuttamaan poikkeukselliseen tunnettuuteen ja vakiintuneisuuteen, on selvää, että valituslautakunnan tulkinta tavaramerkin VALIO KOTIRUOKAA erottamiskyvystä on virheellinen.
+Yhtiö on oheistanut kirjelmään kopion Patentti- ja rekisterihallitukselle 10.4.2014 jättämästään tavaramerkkihakemuksesta sanamerkille VALIO sekä hakemusta vastaavat otteet Patentti- ja rekisterihallituksen tietokannasta. Mikäli korkein hallinto-oikeus katsoo, että hakijan toimittama aiempi näyttö ja perustelut merkin VALIO vakiintumiselle luokassa 16 eivät riitä osoittamaan merkin VALIO KOTIRUOKAA erottamiskykyä, yhtiö on pyytänyt, että VALIO KOTIRUOKAA koskevan asian käsittelyä lykätään, kunnes uusi VALIO-asia on käsitelty. Yhtiö tulee mainitun hakemuksen käsittelyn yhteydessä osoittamaan, että sana VALIO on vakiintunut Valio Oy:n tavaramerkiksi jo ennen nyt kiistanalaisen hakemuksen jättöpäivää 18.1.2011.
+Yhtiö
+                     on, korkeimman hallinto-oikeuden varattua sille tilaisuuden esittää vastaselityksessään tarkoitettua VALIO tavaramerkkiä koskevaa lisäselvitystä, toimittanut kopiot VALIO-tavaramerkin rekisteröintiä muun ohella painotuotteille luokassa 16 koskevasta, Patentti- ja rekisterihallitukselle esittämästään selvityksestä sekä lausunut muun ohella seuraavaa:
+
+Patentti- ja rekisterihallitus on 20.1.2015 antamallaan päätöksellä hylännyt hakijan VALIO sanatavaramerkkiä koskevan hakemuksen nro T201400243. Päätöksen mukaan näytöstä ei kokonaisuudessaan ilmene, että sanamerkki VALIO olisi käytön kautta tullut haetuille tavaroille ja palveluille erottamiskykyiseksi. Yhtiö tulee valittamaan tästä päätöksestä markkinaoikeuteen.
+Mainitun selvityksen ja Patentti- ja rekisterihallitukselle esitetyn argumentaation perusteella VALIO olisi tullut katsoa erottamiskykyiseksi tavaramerkiksi. Tavaramerkkiä VALIO KEITTOKIRJA koskevassa asiassa korkeimmassa hallinto-oikeudessa on äänestetty valio-sanan tunnettuuden asteesta ja tavaramerkkisuojan sisällöstä. Nyt haetun tavaramerkin VALIO KOTIRUOKAA rekisteröitävyyttä tulee arvioida itsenäisesti kaiken tähän asti toimitetun aineiston perusteella.
+Aineistolla on pyritty osoittamaan, että VALIO nauttii tänä päivänä suomen kielessä lähtökohtaisesti erottamiskykyisen tavaramerkin asemaa yksistään sillä perusteella, että se on pitkäaikaisen käytön myötä irtaantunut kohderyhmänsä keskuudessa sanan alkuperäisestä merkityksestä ja saanut itsenäisen uuden merkityksen Valio Oy:n toiminimenä ja elintarvikkeisiin ja ravitsemukseen liittyvien tavaroiden ja palveluiden tavaramerkkinä.
+Esitetyissä tulosteissa hakutuloksista Google-hakutietokannasta yhdessäkään ei viitata sanaan valio laatusanana. Tämä on erittäin relevantti osoitus suomen kielen nykytilasta ja siitä, että suomalainen kuluttaja ei käytä sanaa valio yleiskielessä kuvaamaan asioita. Patentti- ja rekisterihallitus on hyväksynyt NOKIA sanamerkin Suomessa rekisteröitäväksi kaikissa tuolloin haetussa 42 tavara- ja palveluluokassa ilman käyttönäyttöä.
+VALIO on myös Suomessa yhtä lailla notorisesti tunnettu yrityksen nimi ja erottamiskykyinen tavaramerkki.
+Osa toimitetusta materiaalista ajoittuu tavaramerkkiä VALIO KOTIRUOKAA koskevan hakemuksen tekemispäivän jälkeiseen ajankohtaan. Materiaali todistaa ja vahvistaa VALIO tavaramerkin käytön pitkäjänteisyyttä ja sen alati kasvavaa tunnettuutta ja arvostusta suomalaisten kuluttajien keskuudessa. On kohtuutonta ja perusteetonta edelleen 2010-luvulla katsoa, että vuonna 1905 käyttöön otettu VALIO tavaramerkki olisi suomen kielen laatusana, joka ei nauttisi erottamiskykyisen tavaramerkin asemaa. Kyseessä on suomalainen instituutio, yksi Suomen tunnetuimmista tavaramerkeistä ja luotetuimmista ja tunnetuimmista yrityksistä sekä elintarvikealan edelläkävijä, jonka tulee saada nauttia nimelleen tavaramerkkioikeudellista yksinoikeutta Suomessa.
+Yhtiö toimitti Patentti- ja rekisterihallitukselle sen selvityksen lisäksi, mitä yhtiö oli toimittanut jo vuonna 2002, lisää näyttöä VALIO tavaramerkin käytöstä painotuotteiden osalta aina 2010-luvulle saakka.
+Patentti- ja rekisterihallituksen VALIO sanamerkkiä koskevassa päätöksessään esittämä käsitys, että merkkiä on toimitetuissa julkaisuissa käytetty tavaramerkinomaisesti lähinnä kuviomerkkinä, on tarkoitushakuinen ja irrelevantti. On täysin luonnollista, että kuluttajille suunnatuissa tuotteissa brändit esiintyvät markkinointitarkoituksessa pakkauksissa yleensä logomuodossa. Toiseksi, esimerkiksi 2000‒2010-luvuilta toimitetuissa julkaisuissa sana VALIO esiintyy nimenomaan itsenäisesti "tikkukirjaimina" Valion silloisen liikemerkin alla ja myös esimerkiksi tuoteluetteloissa juoksevassa tekstissä itsenäisenä nimenä. Edelleen vuonna 2002 kerätyissä vakiinnuttamistodistuksissa sana VALIO esiintyi itsenäisesti ilman minkäänlaista kuviotunnusta. Lisäksi VALIO brändille annetuissa monipuolisissa tunnustuksissa ja tavaramerkistä tehdyissä tutkimuksissa on ollut kysymys pääasiassa VALIO brändin tunnettuudesta tai arvostuksesta itsenäisenä tavaramerkkinä ja yrityksen nimenä vailla kuvioelementtejä.
+On perusteetonta vedota siihen, että kuluttajabrändin julkaisuissa eli pääasiassa mainonnassa, painetussa mediassa, brändi esiintyy tuotteissa kuviomerkkinä ja että itse sana VALIO ei sen vuoksi olisi tunnettu. Suomalainen kuluttaja tuntee VALIO tavaramerkin riippumatta siitä, minkälaisena yrityslogona se kulloinkin on esiintynyt.
+Korkeimman hallinto-oikeuden ratkaisu
+Korkein hallinto-oikeus on tutkinut asian. Valitus hylätään. Patentti- ja rekisterihallituksen valituslautakunnan päätöksen lopputulosta ei muuteta.
+Perustelut
+Korkeimmassa hallinto-oikeudessa on Valio Oy:n valituksen johdosta kysymys tavaramerkin VALIO KOTIRUOKAA rekisteröitävyydestä painotuotteille luokassa 16.
+Rekisteröitävän tavaramerkin tulee tavaramerkkilain 13 §:n mukaan olla omiaan erottamaan haltijan tavarat muiden tavaroista. Tavaran lajia, laatua, paljoutta, käyttötarkoitusta, hintaa taikka valmistuspaikkaa tai aikaa joko yksinomaan tai ainoastaan vähäisin muunteluin tai lisäyksin ilmaisevaa merkkiä ei sellaisenaan ole katsottava erottamiskykyiseksi. Arvosteltaessa merkin erottamiskykyä on kiinnitettävä huomiota kaikkiin asianhaaroihin ja erityisesti siihen, kuinka kauan ja miten laajalti merkkiä on käytetty.
+Tavaramerkin VALIO KOTIRUOKAA ensimmäinen sana tarkoittaa, kuten Patentti- ja rekisterihallituksen päätöksessä on todettu, muun muassa ryhmänsä, lajinsa, rotunsa tai muun sellaisen parhaisiin kuuluvaa yksilöä. Painojulkaisun tavaramerkkinä kokonaisuus VALIO KOTIRUOKAA ilmaisee, että kysymyksessä on esimerkiksi parasta kotiruokaa käsittelevä julkaisu. Kuvailevuutensa perusteella tavaramerkkiä ei voida pitää itsessään erottamiskykyisenä.
+Yhtiö on vedonnut valio-sanan vähäiseen käyttöön kuvailevassa merkityksessään sekä siihen, että sana miellettäisiin yhtiön brändin laajan tunnettuuden perusteella tavaramerkin VALIO KOTIRUOKAA osana yksinomaan yhtiöön viittaavaksi.
+Yhtiön esittämän selvityksen perusteella ja muutoinkin on sinänsä selvää, että VALIO-brändillä on erittäin vahva asema Suomen elintarvikemarkkinoilla. Yhtenä osoituksena tästä on yhtiön viittaama VALIO-tavaramerkin rekisteröinti eräissä tavara- ja palveluluokissa, mistä nyt ei ole kysymys, laajalti tunnettujen tavaramerkkien luetteloon. VALIO KOTIRUOKAA -tavaramerkin erottamiskykyä on kuitenkin arvioitava suhteessa tavaraluokassa 16 tarkoitettuihin painotuotteisiin, joista käsillä olevassa asiassa on kysymys.
+Yhtiö on myös esittänyt selvitystä VALIO-tunnuksen käytöstä elintarvikkeisiin liittyvissä painotuotteissa. VALIO-tunnuksen tavaramerkinomainen käyttö tässä aineistossa rajoittuu kuitenkin yhdistelmämerkkeihin, joihin kuuluu myös kuvioelementti. Aineisto ei osoita, että kuluttajat mieltäisivät VALIO-sanamerkkiä painotuotteiden tavaramerkkinä yksinomaan yhtiöön Valio Oy viittaavaksi. Aineistosta ei ainakaan voi päätellä, että näin olisi tavaramerkkikokonaisuuden VALIO KOTIRUOKAA osalta.
+Tällaista johtopäätöstä ei voida tehdä myöskään Valio Oy:n käyttämiä iskulauseita koskevan tutkimuksen tulosten perusteella. Tutkituissa iskulauseissakin VALIO esiintyy kuviomuodossa. Iskulauseessa "Tekee hyvästä valion", jossa se esiintyy kuvion lisäksi myös sanana, yhtiökin käyttää sanaa valio yleiskielen sanana juuri siinä merkityksessä, jota kuluttajat eivät yhtiön esittämän mukaan ymmärtäisi.
+Myöskään yhtiön tänne toimittamasta aineistosta, jonka se on esittänyt Patentti- ja rekisterihallitukselle VALIO-tavaramerkin rekisteröintiä muun ohella painotuotteille koskevan tavaramerkkihakemuksen nro T201400243 käsittelyn yhteydessä, ei ilmene sellaista VALIO-tavaramerkin tunnettuutta painotuotteiden osalta, joka puoltaisi nyt esillä olevan tavaramerkkikokonaisuuden VALIO KOTIRUOKAA pitämistä erottamiskykyisenä painotuotteiden tavaramerkkinä.
+Tavaramerkin rekisteröinnille on näillä perusteilla täällä esillä olevalta osin tavaramerkkilain 19 §:n 2 momentissa tarkoitettu este.
+Tämän vuoksi ja kun muutoin otetaan huomioon edellä ilmenevät valituslautakunnan päätöksessä viitatut Patentti- ja rekisterihallituksen päätöksen perustelut sekä korkeimmassa hallinto-oikeudessa esitetyt vaatimukset ja asiassa saatu selvitys, valituslautakunnan päätöksen lopputuloksen muuttamiseen ei ole perusteita.
+Asian ovat ratkaisseet presidentti Pekka Vihervuori sekä hallintoneuvokset Anne E. Niemi, Matti Halén, Alice Guimaraes-Purokoski ja Outi Suviranta. Asian esittelijä Kristina Björkvall.
