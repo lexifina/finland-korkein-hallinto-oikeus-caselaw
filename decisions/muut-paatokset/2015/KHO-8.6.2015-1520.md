@@ -1,0 +1,99 @@
+---
+identifier: "KHO 8.6.2015/1520"
+court: "Korkein hallinto-oikeus"
+kind: "muut-paatokset"
+docket: "1286/2/14"
+decided: "2015-06-08"
+volume: "1520"
+keywords: "Simpan tasoristeyksen poistamista koskeva ratasuunnitelma (Sastamala)"
+source_url: "https://www.finlex.fi/fi/oikeuskaytanto/korkein-hallinto-oikeus/muut-paatokset/2015/1520"
+source: "Finlex (www.finlex.fi), Ministry of Justice of Finland"
+licence: "CC BY 4.0"
+source_retrieved: "2026-11-07"
+cites_law: ["finland/national/acts/ratalaki/pykala-015.md", "finland/national/acts/ratalaki/pykala-018.md"]
+---
+
+# KHO 8.6.2015/1520
+
+## Suomeksi
+
+Asia
+                     Ratasuunnitelman hyväksymistä koskeva valitus
+
+Valittaja
+                     A
+
+Päätös, jota valitus koskee
+Hämeenlinnan hallinto-oikeus 13.3.2014 nro 14/0170/1
+Asian aikaisempi käsittely
+Liikennevirasto
+                     on 30.4.2013 hyväksynyt Lielahti-Kokemäki -allianssihankkeen suunnitteluosuus 2, Huittinen, Sastamala, Kokemäki 31.12.2012 päivätyn ja 28.3.2012 muutetun ja täydennetyn ratasuunnitelman päätöksestä ilmenevällä tavalla.
+
+Ratasuunnitelmassa Simpan tasoristeys Sastamalassa poistetaan. Korvaava tieyhteys on Y10.
+Hallinto-oikeuden ratkaisu
+Hämeenlinnan hallinto-oikeus
+                     on valituksenalaisella päätöksellään hylännyt A:n valituksen. Hallinto-oikeus on perustellut päätöstään seuraavasti:
+
+Sovellettuja oikeusohjeita
+Ratalain 6 §:n 3 momentin mukaan rautatie on rakennettava siten, että rautatien tarkoitus saavutetaan mahdollisimman edullisesti ja tuottamatta kenellekään enempää vahinkoa tai haittaa kuin tarve vaatii. Rautatien rakentamisessa on erityisesti otettava huomioon junaliikenteen ja muun liikenteen turvallisuus, radan liikenteellinen ja tekninen toimivuus, alueen nykyinen ja suunniteltu maankäyttö sekä ympäristönäkökohdat.
+Saman lain 10 §:n 2 momentin mukaan valtakunnalliset alueidenkäyttötavoitteet sekä maakuntakaava ja yleiskaava on otettava huomioon siten kuin maankäyttö- ja rakennuslaissa säädetään.
+Saman lain 18 §:n 1 momentin mukaan liikenneturvallisuuden parantamiseksi ja rautatieliikenteen tehostamiseksi voidaan ratasuunnitelmassa osoittaa tasoristeys poistettavaksi tai tasoristeyksiä järjesteltäviksi sekä osoittaa tasoristeykselle käyttörajoituksia tai tasoristeysten turvallisuuteen liittyviä järjestelmiä ja laitteita. Jos ratasuunnitelmassa osoitetaan tasoristeys poistettavaksi, on uuden kulkuyhteyden järjestäminen osoitettava ratasuunnitelmassa. Radanpitäjä tekee tarvittavan uuden tien ja tasoristeyksen tai hankkii oikeuden ennestään olevaan tiehen.
+Hallituksen esityksessä ratalaiksi ja eräiksi siihen liittyviksi laeiksi (HE 222/2006) todetaan ratalain 6 §:n 3 momentin osalta, että siinä säädettäisiin niistä yleisistä periaatteista, jotka radanpitäjän on otettava huomioon rautatietä rakennettaessa. Lähtökohtana on yhteiskuntataloudellinen tehokkuus, joten rautatien rakentamistoimet tulee kohdentaa ja mitoittaa mahdollisimman tehokkaiksi ja taloudellisiksi. Rautatien rakentaminen aiheuttaa aina joillekin tahoille haittaa tai vahinkoa. Näistä haitoista tai vahingoista määrätään korvaus ratatoimituksessa. Jos rautatien rakentamiselle asetetut vaatimukset antavat mahdollisuuden erilaisiin teknisiin ratkaisuihin, tulisi valita se työmenetelmä tai tekninen ratkaisu, jolla haitat tai vahingot ehkäistään tai niiden määrä olisi vähin mahdollinen.
+Asiassa saatua selvitystä
+Ratasuunnitelmaselostus
+Ratasuunnitelmaselostuksessa tavoitteena on todettu, että Lielahti-Kokemäki -allianssihanke on sekä peruskorjaushanke että parantamishanke, jolla pyritään sekä turvallisen ja sujuvan liikennöinnin takaamiseen että järjestelmän kapasiteetin ja suorituskyvyn parantamiseen.
+Rataosan suurin sallittu nopeus henkilöliikenteessä on 140 km/h, mutta suurimmalla osalla matkaa on rajoitettu nopeus radan huonosta kunnosta tai geometriasta johtuen.
+Parantamistöiden tavoitteena on muun ohessa vahvistaa radan rakenteita siten, että liikennöinti 250 kN akselipainolla nopeudella 80 km/h on mahdollista radan liikennöitävyyden ja käytettävyyden parantamiseksi, sekä parantaa juna- ja tieliikenteen turvallisuutta parantamalla ja poistamalla tasoristeyksiä. Parantamistöitä ovat muun ohessa tasoristeysten poistamiset/parantamiset sekä niihin liittyvät tiejärjestelyt ja näkemä­alueiden raivaukset sekä uusien vastapenkereiden ja radan sivuojien tekeminen.
+Maanmittauslaitoksen kanssa on käyty läpi tasoristeysten osalta potentiaaliset kiinteistövaikutusten arviointi eli KIVA-kohteet. Maanmittauslaitos laati KIVA-selvityksen muun ohessa Simpan tasoristeyskohteesta. KIVA-selvitystä käytettiin tasoristeysten poistamisen suunnittelun lähtökohtana.
+Muu asiakirjoista saatu selvitys
+Simpan tasoristeys sijaitsee Pirkanmaan 1. maakuntakaavaan merkityn valtakunnallisesti arvokkaan Karkun-Tyrvään kulttuurimaisema-alueen rajan tuntumassa. Liikenneviraston mukaan ratasuunnitelmassa hankkeen vaikutuksia on arvioitu siitä lähtökohdasta, että Simpan tasoristeys ja sen korvaavaksi kulkuyhteydeksi osoitettu tieyhteys Y10 sijaitsevat kulttuurimaisema-alueella.
+Ratasuunnitelman mukaan Simpan tasoristeys poistetaan ja korvaavaksi tieksi rakennetaan tie Y10, joka on kokonaisuudessaan noin 1 000 metriä pitkä. Tästä noin 360 metriä on olemassa olevaa radan huoltotietä, joka johtaa radan opastimille. Täysin uutta yksityistietä rakennetaan noin 640 metriä mahdollisimman lähelle rataa. Tästä uudesta tieosuudesta noin 450 metriä sijoittuu pääosin Liikenneviraston hallinnassa olevalle rautatiealueelle ja noin 190 metriä pääasiassa valittajan omistaman Ratavarsi-nimisen tilan alueelle. Tie Y10 rakennetaan radan viereen pellon tasoon ja olemassa olevan radan huoltotien jatkoksi.
+Ratasuunnitelmassa on esitetty radan vakavuuden parantamiseksi rakennettavaksi noin 120 metriä pitkä vastapenger, jonka päälle nykyinen huoltotien osuus siirretään ja parannetaan yksityistietarpeita vastaavaan tasoon. Y10 tieyhteydelle on ratasuunnitelmassa esitetty radan kunnossapitotarpeisiin perustettava oikeus ratakilometrille 228+190-560. Tien parantaminen ja uuden vastapenkereen rakentaminen edellyttävät jonkin verran lisäalueiden lunastamista Ratavarsi-tilasta.
+Vastapenkereen kohdalla ratatoimituksessa haltuunotettu alue on leveämpi kuin Y10 tielinjauksen kohdalla muutoin. Vastapenger tarvitaan radan vakavuuden parantamiseksi, eikä sen tarve liity Simpan tasoristeyksen korvaavan tien linjaukseen.
+Liikennevirasto on pyytänyt lausunnot Pirkanmaan elinkeino-, liikenne- ja ympäristökeskukselta ja Pirkanmaan maakuntamuseolta. Elinkeino-, liikenne- ja ympäristökeskuksella ei ollut 22.2.2013 antamassaan lausunnossa huomautettavaa ratasuunnitelmassa esitetyn Y10 tieyhteyden osalta. Pirkanmaan maakuntamuseo on 4.3.2013 antamassaan lausunnossa todennut, että muutoskohde 227+600 sijaitsee valtakunnallisesti arvokkaalla Karkun-Tyrvään maisema-alueella. Poistuvien tasoristeysten vuoksi rakennettava korvaava tie sijoittuu avoimeen peltomaisemaan. Sen rakentamisessa tulee huolehtia maiseman arvojen säilyttämisestä. Tietä ei saa rakentaa korkealle penkalle.
+Hallinto-oikeuden johtopäätökset
+Kysymyksessä on rautatien parantamishanke, jolla pyritään sekä turvallisen ja sujuvan liikennöinnin takaamiseen että järjestelmän kapasiteetin ja suorituskyvyn parantamiseen. Parantamistoimenpiteitä ovat muun ohessa tasoristeysten poistamiset/parantamiset. Tavoitteena on ollut poistaa mahdollisimman monta tasoristeystä. Simpan tasoristeys voidaan poistaa, koska korvaavan tieyhteyden rakentaminen on alueella mahdollista.
+Simpan tasoristeys on esitetty ratasuunnitelmassa poistettavaksi liikenneturvallisuuden parantamiseksi. Ratasuunnitelmassa on tullut arvioida, miten korvaava tieyhteys rakennetaan, että rautatien tarkoitus saavutetaan mahdollisimman edullisesti ja tuottamatta kenellekään enempää vahinkoa tai haittaa kuin tarve vaatii. Erityisesti on tullut ottaa huomioon radan liikenteellinen ja tekninen toimivuus, alueen nykyinen ja suunniteltu maankäyttö sekä ympäristönäkökohdat.
+Liikennevirasto on viitannut lausunnossaan Pirkanmaan-Satakunnan maanmittaustoimiston laatimaan kiinteistövaikutusten arviointiselostukseen (KIVA-selvitys), jossa valittaja on esittänyt olevan puutteita. Näillä tilusjärjestelyjen tarvetta tai peltolohkoille kulkemista koskevilla taustaselvityksillä tai mahdollisilla selvitysten puutteellisuuksilla ei ole ratkaisevaa merkitystä arvioitaessa ratalain mukaisen menettelyn lainmukaisuutta tai hyväksytyssä ratasuunnitelmassa olevan tieyhteyden Y10 valittajalle aiheutuvia haittoja.
+Valittaja on esittänyt vaihtoehdot a)  -  d) tien Y10 tilalle. Vaihtoehdoissa b) ja c) tasoristeys korvattaisiin liikenteenohjauslaittein tai alikululla. Selvityksen mukaan Simpan tasoristeyksen vuorokausiliikenne on ollut seitsemän ajoneuvoa vuorokaudessa. Liikenneviraston mukaan puolipuomilaitoksen rakentamiskustannukset ovat noin 100 000 - 150 000 euroa ja alikulkusillan noin 700 000 - 800 000 euroa. Lisäksi puolipuomilaitoksen ylläpidosta aiheutuisi kustannuksia. Asiassa ei ole ilmennyt sellaista selvitystä, jonka perusteella Liikenneviraston kustannusarvioita olisi pidettävä virheellisinä. Kun otetaan huomioon edellä mainitut kustannukset ja ylläpito sekä tasoristeyksen vuorokausiliikenne, ratasuunnitelman mukainen tasoristeyksen korvaaminen tiellä Y10 täyttää valittajan esittämiin vaihtoehtoihin b) ja c) verrattuna paremmin ratalain 6 §:n vaatimukset radan edullisesta rakentamisesta.
+Vaihtoehdossa d) tielinjauksen pituus on kokonaisuudessaan 1 600 metriä, josta uuden rakennettavan tien osuus on 1 350 - 1 400 metriä. Simpan tasoristeyksestä Nohkuan alikulkusillan suuntaan tieosuus on noin 200 - 250 metrin matkalta olemassa olevaa tien pohjaa. Tässä osuudessa noin 400 metrin matkalla on tieura, joka jouduttaisiin rakentamaan uudelleen. Noin 1 000 metriä sisältävälle osuudelle tie rakennettaisiin kuitenkin kallioiseen ja mäkiseen maastoon, jossa rakentaminen on kalliimpaa.
+Vaihtoehdossa a) tie rakennettaisiin pohjoisemmaksi ja liittymä maantielle 2496 sijaitsisi vajaan kilometrin pohjoisempana verrattuna Y10 liittymään. Uutta tietä jouduttaisiin rakentamaan noin 660 metriä. Valittajan mukaan Ratavarsi-tilan peltoa jäisi rakennettavan tien alle 85 metriä ja naapuritilan peltoa noin 165 metriä, eli yhteensä noin 250 metrin matkalla.
+Liikenneviraston mukaan vaihtoehdon a) ja Y10:n välillä ei arvioida olevan merkittävää kustannuseroa. Vaihtoehdossa a) tie rakennettaisiin kuitenkin siten, että se kulkisi kahden muun tilan peltojen ja Ratavarsi-tilan läpi. Vaihtoehdon d) kustannuksia nostaisivat rakentaminen kallioiseen ja mäkiseen maastoon. Valittajan esittämiin vaihtoehtoihin verrattuna ratasuunnitelmassa valittu ratkaisu on mahdollisimman edullinen, eikä tuota enempää vahinkoa tai haittaa kuin tarve vaatii.
+Rakennettava tie sijaitsee valtakunnallisesti arvokkaalla Karkun-Tyrvään maisema-alueella. Koska tie rakennetaan radan viereen ja koska ratasuunnitelmassa on otettu huomioon Pirkanmaan maakuntamuseon lausunto, arvokas maisema-alue on otettu riittävästi huomioon ratasuunnitelmassa tien Y10 rakentamisen osalta. Ratasuunnitelma ei ole vastoin valtakunnallisia alueidenkäyttötavoitteita tai Pirkanmaan 1. maakuntakaavan määräysten vastainen.
+Tielinjaus Y10 sijoittuu radan viereen osittain rautatiealueelle ja tielinjauksessa hyödynnetään olemassa olevaa radan huoltotietä ja ratasuunnitelmassa osoitetun vastapenkereen aluetta. Tien rakentaminen ei estä mahdollista laiduntamista Ratavarsi-tilalla. Tien käytön on arvioitu olevan pientä, mikä vähentää valittajan tarkoittamia haittoja.
+Ratasuunnitelmassa on ollut arvioitava, miten korvaava tieyhteys rakennetaan mahdollisimman edullisesti ja tuottamatta kenellekään enempää vahinkoa tai haittaa kuin tarve vaatii. Ratasuunnitelmassa tie Y10 rakennetaan radan varteen osittain rautatiealueelle hyödyntäen rakennettavaa vastapenkerettä ja jo olemassa olevaa huoltotietä. Asiassa ei ole ilmennyt sellaista selvitystä, jonka perusteella Liikenneviraston arviota siitä, että Simpan tasoristeyksen korvaaminen tieyhteydellä Y10 vastaa parhaiten ratalaissa säädettyjä vaatimuksia, olisi pidettävä virheellisenä.
+Sovelletut oikeusohjeet
+Ratalaki 6 § 1 ja 3 momentti, 10 § 2 momentti, 14 § 1 momentti, 15 § 1 momentti ja 18 § 1 momentti
+Maankäyttö- ja rakennuslaki 24 § 2 momentti ja 32 § 2 momentti
+Asian ovat ratkaisseet hallinto-oikeuden jäsenet Heikki Jukarainen, Vesa Sirkesalo ja Tuomas Salo, joka on myös esitellyt asian.
+Käsittely korkeimmassa hallinto-oikeudessa
+A
+                     on valituksessaan vaatinut, että hallinto-oikeuden päätös kumotaan ja päätöksessä mainittu Liikenneviraston ratasuunnitelman hyväksymispäätöksen yksityistiejärjestely Y10 palautetaan uudelleen suunniteltavaksi. Tiejärjestely on toteutettava hallinto-oikeuden päätöksessä mainittuja, Kiviniemen esittämiä vaihtoehtoja a) tai d) käyttäen.
+
+Vaatimustensa tueksi hän on esittänyt seuraavaa:
+Liikennevirasto ei ole ratalain 6 §:n 3 ja 4 momentin mukaisesti selvittänyt eri vaihtoehtojen taloudellisuutta, ympäristövaikutuksia ja vaikutusta eri väestöryhmien tarpeisiin. Hallinto-oikeus on päätöksessään tukeutunut Liikenneviraston antamiin, osin virheellisiin selvityksiin. Hallinto-oikeudelle toimitettua linjausvaihtoehdon d) oheismateriaalia ei ole päätöksessä käsitelty.
+Erityisen tärkeää on selvittää vaihtoehtojen kokonaistaloudellisuus tavalla, jossa otetaan huomioon rata- ja tiejärjestelyiden rakentamis- ja ylläpitokustannusten lisäksi yksittäiselle elinkeinonharjoittajalle aiheutuvat haitat sekä ympäristövaikutukset tilanteessa, jossa rakentamis- ja ylläpitokustannuksiltaan samanarvoisia ratkaisuja on tarjolla useita.
+Liikennevirasto
+                     on valituksen johdosta antamassaan selityksessä vaatinut, että valitus hylätään. Vaatimuksensa tueksi Liikennevirasto on viitannut aiemmin lausumaansa ja esittänyt muun ohella seuraavaa:
+
+Ratalain 6 §:n 3 momentti tarkoittaa tasoristeysten poistamishankkeen osalta sitä, että tasoristeyksen korvaava kulkuyhteys on toteutettava yhteiskuntataloudellisesti edullisimmalla tavalla rakentamisen kustannukset sekä haitat ja vahingot huomioon ottaen. Säännös ei pidä sisällään haitattomuusperiaatetta, vaan rakentamisesta voi aiheutua haittaa kiinteistönomistajalle.
+Ratalain 6 §:n 4 momentin mukaan rautatien rakentamisen yhteydessä on kiinnitettävä huomiota eri väestöryhmien tarpeisiin ja esteettömään liikkumiseen. Myös tämä säännös on luonteeltaan rakentamista koskeva periaatesäännös. Käytännössä eri väestöryhmien liikkumistarpeiden huomioon ottaminen tulee esille junien henkilöliikenteen laituri-, asema- ja pysäköintialueita rakennettaessa ja parannettaessa.
+Suunnittelun aikana on arvioitu eri vaihtoehtoja Simpan tasoristeyksen korvaavaksi kulkuyhteydeksi. Korvaavat kulkuyhteysvaihtoehdot a) ja d) ovat tulleet suunnitteluprosessissa esille vasta ratasuunnitelman muistutusvaiheessa valittajan aloitteesta. Liikennevirasto on selvittänyt a) ja d) vaihtoehtoja ja niiden vaikutuksia ja viittaa tältä osin hallinto-oikeudelle antamaansa lausuntoon ja lisälausuntoon. Simpan tasoristeyksen osalta merkitykselliseksi ympäristövaikutukseksi tunnistettiin maisemavaikutukset, koska tasoristeys sijaitsee Karkun-Tyrvään valtakunnallisesti arvokkaalla kulttuurimaisema-alueella.
+Korvaavan kulkuyhteysvaihtoehdon a) ja ratasuunnitelmassa esitetyn vaihtoehdon Y10 välillä ei ole arvioitu olevan juurikaan kustannuseroa, koska rakennettavat tiepituudet ovat suunnilleen samat ja tie kulkee pellon tasossa niillä kohdin missä vaihtoehdot poikkeavat toisistaan. Ratasuunnitelman mukainen kustannusarvio kulkuyhteydelle Y10 on noin 130 000 euroa.
+Vaihtoehdossa d) kokonaan uutta tietä tulee rakennettavaksi noin 900 metriä ja vanhan tiepohjan päälle parannettavaa tietä noin 400 metriä eli yhteensä noin 1 300 metriä. Vaihtoehdon d) kustannukset ovat yhteensä noin 155 000 euroa. Tämän lisäksi tien rakentaminen ja näkemäalueen avartaminen voivat edellyttää louhintatöitä läheisen kallion vuoksi. Louhintatöiden kustannukset ovat arviolta noin 10 000 - 30 000 euroa.
+Kokonaisarvioinnissa on päädytty siihen, että ratasuunnitelman mukainen tielinjaus Y10 täyttää parhaiten ratalain vaatimukset. Tähän tulokseen päädytään ottamalla huomioon kokonaisuutena arvioiden yhteiskuntataloudellinen edullisuus ja korvaavan tien maisemavaikutukset sekä se, että radan varteen sijoittuva tie toimii myös radanpitäjän huoltotienä radan turvalaitteita kunnossa pidettäessä ja huollettaessa.
+A
+                     on selityksen johdosta antamassaan vastaselityksessä esittänyt seuraavaa:
+
+Tilan Ratavarsi peltoalue on karjan laiduntamisen kannalta maatilan toiminnassa merkittävä. Liikenneviraston esittämä tielinjaus Y10 tekee tilasta laiduntamiskelvottoman. Linjausvaihtoehtojen d) ja Y10 kustannusten erotus on Liikenneviraston arvion mukaan vain 25 000 euroa, mitä tulisi verrata tielinjauksesta Y10 aiheutuvista laiduntamisongelmista seuraaviin vaikutuksiin maidontuotantoon ja karjankasvatukseen sekä maatilayrityksen maksamien verotulojen vähentymiseen.
+Linjausvaihtoehdot Y10 ja a) sijaitsevat valtakunnallisesti arvokkaalla kulttuurimaisema-alueella, kun taas linjausvaihtoehto d) sijaitsee kokonaisuudessaan maisema-alueen ulkopuolella. Jos ohikulkutielle avautuvaan näkymään lisätään vielä rautatien viereen tielinjauksessa Y10 esitetty tie kohtauspaikkoineen, näkymä muuttuu radikaalisti. Tämä voidaan välttää metsäiselle alueelle sijoittuvalla linjauksella d).
+Korkeimman hallinto-oikeuden ratkaisu
+Korkein hallinto-oikeus on tutkinut asian.
+Valitus hylätään. Hallinto-oikeuden päätöksen lopputulosta ei muuteta.
+Perustelut
+Ratalain 6 §:n 3 momentin mukaan rautatie on rakennettava siten, että rautatien tarkoitus saavutetaan mahdollisimman edullisesti ja tuottamatta kenellekään enempää vahinkoa tai haittaa kuin tarve vaatii. Rautatien rakentamisessa on erityisesti otettava huomioon junaliikenteen ja muun liikenteen turvallisuus, radan liikenteellinen ja tekninen toimivuus, alueen nykyinen ja suunniteltu maankäyttö sekä ympäristönäkökohdat.
+Ratalain 15 §:n 1 momentin mukaan ratasuunnitelmaan on liitettävä arvio rautatien vaikutuksista sekä esitettävä ne toimenpiteet, jotka ovat tarpeen radan rakentamisen tai junaliikenteen haitallisten vaikutusten poistamiseksi tai vähentämiseksi. Pykälän 2 momentin mukaan suunnitelmassa on otettava mahdollisuuksien mukaan huomioon maanomistusolot.
+Jos ratasuunnitelmassa esitetään tasoristeys poistettavaksi, on ratalain 18 §:n 1 momentin mukaan suunnitelmassa myös osoitettava uuden kulkuyhteyden järjestäminen.
+Yleisenä tavoitteena rautatien suunnittelussa on ratalain säännösten mukaan rautatiestä aiheutuvien haittojen ja vahinkojen minimointi. Liikenneviraston Lielahti  -  Kokemäki -alianssihankkeen suunnitteluosuutta 2 koskevaan ratasuunnitelman hyväksymispäätökseen on liitetty ratalain 15 §:ssä tarkoitettu arvio hankkeen vaikutuksista sekä esitetty ne toimenpiteet, jotka ovat tarpeen hankkeesta aiheutuvien haitallisten vaikutusten poistamiseksi tai vähentämiseksi. Poistettavaksi esitettyjen tasoristeysten osalta ratasuunnitelmassa on myös esitetty korvaavat uudet tieyhteydet. Poistettavaksi esitetyn Simpan tasoristeyksen korvaava tieyhteys on Y10. Liikenneviraston ratasuunnitelman hyväksymispäätöksen yhteydessä esittämät selvitykset ovat olleet riittävät. Valittajan esittämien vaihtoehtojen ja niiden vaikutusten laajempi tarkastelu ei siten ole ollut tarpeen.
+Kun otetaan lisäksi huomioon edellä ilmenevät hallinto-oikeuden päätöksen perustelut ja perusteluissa mainitut oikeusohjeet sekä korkeimmassa hallinto-oikeudessa esitetyt vaatimukset ja asiassa saatu selvitys, hallinto-oikeuden päätöksen lopputuloksen muuttamiseen ei ole perusteita.
+Asian ovat ratkaisseet hallintoneuvokset Kari Kuusiniemi, Hannu Ranta, Tuomas Lehtonen, Liisa Heikkilä ja Janne Aer. Asian esittelijä Tuire Taina.
