@@ -1,0 +1,112 @@
+---
+identifier: "KHO 23.11.2015/3390"
+court: "Korkein hallinto-oikeus"
+kind: "muut-paatokset"
+docket: "1430/1/14"
+decided: "2015-11-23"
+volume: "3390"
+keywords: "Vistan osayleiskaavaa koskeva asia Paimiosta"
+source_url: "https://www.finlex.fi/fi/oikeuskaytanto/korkein-hallinto-oikeus/muut-paatokset/2015/3390"
+source: "Finlex (www.finlex.fi), Ministry of Justice of Finland"
+licence: "CC BY 4.0"
+source_retrieved: "2026-11-07"
+---
+
+# KHO 23.11.2015/3390
+
+## Suomeksi
+
+Asia
+                     Yleiskaavaa koskeva valitus
+
+Valittaja
+                     Paimion kaupunginhallitus
+
+Päätös, jota valitus koskee
+Turun hallinto-oikeus 2.4.2014 nro 14/0102/1
+Asian aikaisempi käsittely
+Paimion kaupunginvaltuusto on 13.12.2012 tekemällään päätöksellä 90 §) hyväksynyt Vistan osayleiskaavan.
+Hallinto-oikeuden ratkaisu
+Turun hallinto-oikeus
+                     on valituksenalaisella päätöksellään, siltä osin kuin korkeimmassa hallinto-oikeudessa on kysymys, Varsinais-Suomen elinkeino-, liikenne- ja ympäristökeskuksen, Paimio-Seura ry:n sekä Varsinais-Suomen maakuntamuseon valituksista kumonnut Paimion kaupunginvaltuuston päätöksen seututeiden 110 ja 181 risteyksen ympäristöön osoitettujen TP-1- ja P-1-alueiden osalta sekä Hellbergin- ja Hossilantien päässä Paimionjokilaaksossa olevan AP/res/sy-alueen osalta.
+
+Hallinto-oikeus on tältä osin perustellut päätöstään seuraavasti:
+---
+Vistan osayleiskaava-alue ja sen suunnittelutilanne
+Vistan osayleiskaava-alue käsittää Vistan alueen, jonne Paimion kaupungin keskustatoiminnot keskittyvät, sekä Vistan lähialueet. Alueen pinta-ala on noin 5 050 hehtaaria. Kaupungin keskusta on rakentu­nut Paimionjoen itäpuolelle ja taajamarakenne jatkuu siitä etelään Helsinki - Turku-moottoritien yli maantielle 110 asti. Yhdyskuntarakenne on laajentunut keskustan läheisille selänteille Sähköyhtiöntien - Tarvasjoentien, Sukselantien, Alvar Aallontien, Valkojantien ja Iso-livarintien suuntaisesti. Paimionjoen länsipuolella oleva taajama-alue on lähinnä pientaloasutusta. Moottoritien ja maantien 110 välinen alue painottuu palvelujen ja tuotannon alueisiin.
+Osayleiskaava-alueella on voimassa 23.8.2004 vahvistettu Turun kaupunkiseudun maakuntakaava. Paimion keskusta on kaavassa keskustatoimintojen aluetta (C) ja keskustan lähialueet taajamatoimintojen aluetta (A). Merkittävimmät teollisuusalueet (T) ja työpaikka-alueet (TP) sijoittuvat pääliikenneyhteyksien varsille. Lisäksi maakuntakaavassa on osoitettu merkittävimmät virkistysalueet, maa- ja metsätalousalueet (M) ja suojelualueet (S). Paimion keskustan C-alue sekä laajahko maakuntakaavan A, TP, V ja M -alueista muodostuva alue on maakuntakaavan kaupunkikehittämisen kohdealuetta. Viimeksi mainittua aluetta koskevan suunnittelumääräyksen mukaan yhdyskuntarakennetta tulee tiivistää ja rakentamistehokkuutta lisätä alueella. Rakenteen tiivistämisen tulee olla ympäristön laatua kehittävää.
+Maakuntakaavassa on osoitettu Pai­mionjokilaakson valtakunnallisesti arvokas maisema-alue rasterimerkinnällä (viivoitettu alue). Sitä koskee maakuntakaavan aluevarausmerkintä "Kulttuuriympäristön ja maiseman kannalta tärkeä alue". Merkinnällä on kaavassa osoitettu valtakunnallisesti, maakunnallisesti ja seudullisesti arvokkaat maisema-alueet. Aluetta koskevan suunnittelumääräyksen mukaan suunnitelmien ja toimenpiteiden alueella tulee olla maiseman arvoja turvaavia ja edistäviä. Rakentamisen tulee kohdistua aukeamien reunoille olemassa olevaan rakentamiseen tukeutuen. Suunnittelu- ja rakentamistoimenpitein tulee edistää peltojen, niittyjen ja avoimien maisematilojen säilymistä.
+Paimionjokilaakso kuuluu valtioneuvoston vuonna 1995 tekemän periaatepäätöksen mukaisiin valtakunnallisesti arvokkaisiin maisema-alueisiin (maisema-aluetyöryhmän mietintö 66/1992). Paimionjokilaaksoa koskevan kohdekuvauksen mukaan jokilaakson viljelykset rajautuvat jyrkästi kohoaviin metsäselänteisiin. Paimionjoen halkoma laaja yhtenäinen viljelyalue ja sen perinteinen asutus ovat maiseman keskeiset elementit. Maisema-alue käsittää jokilaakson alueen kokonaisuudessaan Paimionlahdelta Tarvasjoelle ja sen pinta-ala on noin 6 000 hehtaaria.
+Suuri Rantatie on valtakunnallisesti merkittävä rakennetun kulttuuriympäristön kohde (RKY). Historiallinen maantieyhteys ohittaa Paimiossa muun muassa Nakolinnan muinaislinnan ennen saapumistaan Paimion keskiaikaiselle kirkolle. Kohde kuuluu Museoviraston laatimaan valtakunnalliseen inventointiin, joka on vahvistettu noudatettavaksi alueiden käytön suunnittelussa valtioneuvoston päätöksellä 22.12.2009.
+Alueella ei ole voimassa oikeusvaikutteista yleiskaavaa. Vistan osayleiskaavan alue noudattaa pääosin kaupunginvaltuuston 17.12.1992 hyväksymän oikeusvaikutuksettoman Paimion Vistan osayleiskaavan aluetta.
+---
+Osayleiskaavan sisältöä koskevat maankäyttö- ja rakennuslain säännökset
+Maankäyttö- ja rakennuslain mukaan yleiskaavan tarkoituksena on kunnan tai sen osan yhdyskuntarakenteen ja maankäytön yleispiirteinen ohjaaminen sekä toimintojen yhteen sovittaminen. Yleiskaava voidaan laatia myös maankäytön ja rakentamisen ohjaamiseksi määrätyllä alueella.
+Maakuntakaava on ohjeena laadittaessa ja muutettaessa yleiskaavaa ja asemakaavaa sekä ryhdyttäessä muutoin toimenpiteisiin alueiden käytön järjestämiseksi.
+Maakunnan suunnittelussa ja muussa alueiden käytön suunnittelussa on huolehdittava valtakunnallisten alueidenkäyttötavoitteiden huomioon ottamisesta siten, että edistetään niiden toteuttamista. Kulttuuri- ja luonnonperintöä, virkistyskäyttöä ja luonnonvaroja koskevan erityistavoitteen mukaan viranomaisten laatimat valtakunnalliset inventoinnit otetaan huomioon alueidenkäytön suunnittelun lähtökohtina.
+Yleiskaavaa laadittaessa on muun ohella otettava huomioon yhdyskuntarakenteen toimivuus, taloudellisuus ja ekologinen kestävyys, olemassa olevan yhdyskuntarakenteen hyväksikäyttö, asumisen tarpeet ja palveluiden saatavuus, rakennetun ympäristön, maiseman ja luonnonarvojen vaaliminen sekä virkistykseen soveltuvien alueiden riittävyys.
+Edellä tarkoitetut seikat on selvitettävä ja otettava huomioon siinä määrin kuin laadittavan yleiskaavan ohjaustavoite ja tarkkuus sitä edellyttävät.
+Jos jotakin aluetta tai rakennusta on maiseman, luonnonarvojen, rakennetun ympäristön, kulttuurihistoriallisten arvojen tai muiden erityisten ympäristöarvojen vuoksi suojeltava, yleiskaavassa voidaan antaa sitä koskevia tarpeellisia määräyksiä (suojelumääräykset).
+---
+Valitukset osayleiskaavan Paimionjokilaakson valtakunnallisesti arvokkaalle maisema-alueelle osoitetun maankäytön osalta
+Valtakunnallisesti arvokas maisema-alue osayleiskaavassa
+Paimionjokilaakson valtakunnallisesti arvokkaan maisema-alueen rajausta on tarkistettu vuonna 1995. Turun kaupunkiseudun vuonna 2004 vahvistetun maakuntakaavan kulttuuriympäristön ja maiseman kannalta tärkeän alueen rajaus on edellä mainitun rajauksen mukainen. Vistan osayleiskaavaan on merkitty valtakunnallisesti arvokkaan maisemakokonaisuuden ohjeellinen rajaus. Tämä rajaus noudattaa pääosin valtakunnallisen inventoinnin maisema-alueen rajausta. Yleiskaavan rajaus on kuitenkin kaava-alueen eteläosassa Kemiöntien tuntumassa ja kaava-alueen pohjoisosassa Tarvasjoentien itäpuolella sekä Veikkarintien ja Sukselantien välisellä alueella valtakunnallista rajausta laajempi. Paimionjoen itäpuolella keskustassa ja edelleen Sähköyhtiöntien itäpuolella osayleiskaavan rajaus on suppeampi eikä ulotu jo rakennetuille alueille.
+Osayleiskaavan valtakunnallisesti arvokasta maisemakokonaisuutta koskevan kaavamääräyksen mukaan suunnitelmien ja toimenpiteiden tulee alueella olla maiseman arvoja turvaavia ja edistäviä. Tavoitteena on säilyttää laajat peltoalueet avoimina maisematiloina ja pääosin rakentamattomina. Rakentaminen tulee ohjata olemassa olevan rakennuskannan yhteyteen tai metsäsaarekkeisiin. Alueiden yksityiskohtaisessa suunnittelussa tulee huolehtia siitä, että annetaan ohjeita koskien hyvää rakentamistapaa, maisemanhoitoa ja luonnonsuojelua.
+Paimionjokilaakson valtakunnallisesti arvokkaan maisema-alueen rajaus on alueen laajuus ja sitä koskevan kartta-aineiston mittakaava huomioon ottaen esitetty maisema-alueen inventoinnissa yleispiirteisellä tarkkuudella. Alueen rajaus voi tarkentua yleiskaavassa muun ohella siten, että jo rakentuneet alueet otetaan maisema-alueen rajauksessa huomioon. Jäljempänä on kunkin valituksen kohteena olevan alueen osalta erikseen arvioitu osayleiskaavan mukaisten maankäyttöratkaisujen vaikutuksia valtakunnallisesti arvokkaan maisema-alueen arvoihin.
+Seututeiden 110 ja 181 risteyksen ympäristö
+Seututeiden risteyksen välittömään läheisyyteen on osayleiskaavassa osoitettu palvelujen ja hallinnon alueet, joilla rakentaminen sopeutetaan maisemaan (P-1). Kaavamääräyksen mukaan alueita asemakaavoitettaessa on rakentamistapaa ja tonttien käyttöä ohjattava yksityiskohtaisilla rakentamistapaohjeilla rakentamisen sopeuttamiseksi maisemaan. Merkinnällä on osoitettu palvelualueet maantien 110 varrella, jotka ovat jo osin rakentuneet. Risteyksen koillispuolelle on osoitettu työpaikka-alue (TP-1). Kaavamääräyksen mukaan alue on paljon tilaa vievien toimitilakeskittymien ja ympäristöhäiriöitä aiheuttamattomien teollisuustoimintojen alue, jolla on erityisesti huomioitava ympäristövaatimukset. Sisältää myös pienehköjä asuntoalueita. Alueita asemakaavoitettaessa on rakentamistapaa ja tonttien käyttöä ohjattava yksityiskohtaisilla rakentamistapaohjeilla rakentamisen sopeuttamiseksi maisemaan. Alueelle ei saa sijoittaa uutta asumista, jos sille kohdistuu ympäristöhäiriöitä.
+Osayleiskaavan P-1- ja TP-1-alueet sijoittuvat TP-1-alueen itäisintä osaa lukuunottamatta valtakunnallisesti arvokkaalle Paimionjokilaakson maisema-alueelle. Turun kaupunkiseudun maakuntakaavassa alue on maa- ja metsätalousvaltaista aluetta (M). Maakuntakaavan teollisuustoimintojen alue (T) sijoittuu P-1- ja TP-1-alueiden itäpuolelle.
+Paimionjokilaakson valtakunnallisesti arvokkaan maisema-alueen keskeisiin elementteihin kuuluu sen kohdekuvauksen mukaan joen halkoma laaja yhtenäinen viljelyalue. Osayleiskaavan maisemaselvityksen mukaan Paimionjokilaaksoon liittyvät avoimet maisematilat ovat lähes poikkeuksetta pohjois-eteläsuuntaisia. Vaikka moottoritie ja seututie 110 katkaisevat jokilaakson avointa maisematilaa, seututeiden 110 ja 181 risteyksen ympäristön ei maisemaselvityksessä ole katsottu olevan maisemallisesti rakentamiseen soveltuvaa. Selvityksen liitekarttaan on risteykseen ulottuva maisematila merkitty kauniina, säilytettävänä näkymänä.
+Osayleiskaavan selvitysten ja hallinto-oikeuden katselmushavaintojen mukaan kysymyksessä olevien P-1- ja TP-1-alueiden sijainti on jokilaaksoa halkovilta teiltä avautuvien näkymien kannalta varsin keskeinen. Näiden alueiden rakentamisella on selvästi heikentävä vaikutus jokilaakson avoimeen maisemaan. Koska kysymyksessä olevan maisema-alueen luonteeseen kuuluu juuri avoimuus, rakentamisen haitallisia vaikutuksia ei voida estää osayleiskaavaan sisältyvillä asemakaavoitusta ohjaavilla rakentamismääräyksillä. Osayleiskaava ei edellä sanottu huomioon ottaen tältä osin edistä valtakunnallisten alueidenkäyttötavoitteiden kulttuuri- ja luonnonperinnön arvojen säilymistä koskevien erityistavoitteiden toteuttamista. Maakuntakaava ei ole ollut ohjeena osayleiskaavaa laadittaessa eikä osayleiskaava myöskään täytä yleiskaavan maiseman ja luonnonarvojen vaalimista koskevaa sisältövaatimusta.
+Kaupunginvaltuuston päätös on tältä osin lainvastainen ja se on kumottava.
+Hellbergin- ja Hossilantien päässä Paimionjokilaaksossa oleva alue
+Kaava-alueen pohjoisosaan, Paimionjokea kohti laskevaan rinteeseen on osoitettu asuinpientalovaltainen alue, jolla rakentaminen sopeutetaan ympäristöön (AP/res/sy). Kaavamääräyksen mukaan alue on tarkoitettu reservialueeksi.
+AP/res/sy-alue sijoittuu jo rakennetun pientaloalueen länsipuolelle ja kokonaisuudessaan valtakunnallisesti arvokkaalle maisema-alueelle. Alueen itäreuna on maakuntakaavan A-aluetta ja Paimionjoen puoleinen osa maakuntakaavan M-aluetta.
+Osayleiskaavassa osoitettu AP/res/sy-alue merkitsee rakentamisen ulottumista melko jyrkälle rinteelle yhä lähemmäksi Paimionjokea. Hallinto-oikeuden katselmushavaintojen mukaan osayleiskaavan mukainen asuinalue tulisi selvästi erottumaan avoimessa jokilaakson maisemassa vaikka alueella onkin nuori istutusmetsä. Osayleiskaava ei edellä sanottu huomioon ottaen tältä osin edistä valtakunnallisten alueidenkäyttötavoitteiden kulttuuri- ja luonnonperinnön arvojen säilymistä koskevien erityis­tavoitteiden toteuttamista. Osayleiskaava ei myöskään täytä yleiskaavan maiseman ja luonnonarvojen vaalimista koskevaa sisältövaatimusta.
+Kaupunginvaltuuston päätös on tältäkin osin lainvastainen ja se on kumottava.
+---
+Yhteenveto
+Vistan osayleiskaava on edellä lähemmin ilmenevin perustein maankäyttö- ja rakennuslain vastainen seututeiden 110 ja 181 risteyksen ympäristöön osoitettujen TP-1- ja P-1-alueiden osalta sekä Hellbergin- ja Hossilantien päässä Paimionjokilaaksossa olevan AP/res/sy-alueen osalta.
+---
+Hallinto-oikeuden soveltamat oikeusohjeet
+Maankäyttö- ja rakennuslaki 9 §, 24 § 2 momentti, 32 § 1 momentti, 35 § 1 momentti, 39 §, 40 § ja 188 § 1 momentti
+Maankäyttö- ja rakennusasetus 1 § ja 17 §
+Kuntalaki 90 §
+Valtioneuvoston 13.11.2008 hyväksymät tarkastetut valtakunnalliset alueidenkäyttötavoitteet, kohdat 4.3 ja 4.4
+Asian ovat ratkaisseet hallinto-oikeuden jäsenet Hannu Renvall, Hannamaija Falck (eri mieltä) ja Kari Hartzell, joka on myös esitellyt asian.
+Käsittely korkeimmassa hallinto-oikeudessa
+Paimion kaupunginhallitus
+                     on valituksessaan vaatinut, että hallinto-oikeuden päätös kumotaan siltä osin hallinto-oikeus on kumonnut kaupunginvaltuuston päätöksen seututeiden 110 ja 181 risteyksen ympäristöön osoitettujen TP-1- ja P-1-alueiden osalta sekä Hellbergin- ja Hossilantien päässä Paimionjokilaaksossa olevan AP/res/sy-alueen osalta.
+
+Kaupunginhallitus on perustellut vaatimuksiaan muun ohella seuraavasti:
+Vistan osayleiskaavan laadinnassa maisema-arvojen säilyminen on otettu huomioon kaavaa laadittaessa osoittamalla laajat avoimet peltoaukeat säilytettäviksi avoimina maisematiloina ja pääosin rakentamattomina, sekä ohjaamalla tulevaa maankäyttöä ja rakentamista valtakunnallisesti merkittävää maisema-aluetta koskevalla kaavamääräyksellä (vaakaviivarasteri).
+Vistan osayleiskaavan tavoitteena on säilyttää laajat peltoalueet pääosin avoimina maisematiloina ja rakentamattomina. Valtakunnallisesti arvokasta maisema-aluetta koskevan Vistan osayleiskaavan kaavamääräyksen mukaisesti rakentaminen tulee ohjata olemassa olevan rakennuskannan yhteyteen tai metsäsaarekkeisiin ja alueiden yksityiskohtaisessa suunnittelussa tulee huolehtia siitä, että annetaan ohjeita koskien hyvää rakentamistapaa, maisemanhoitoa ja luonnonsuojelua. Määräys turvaa osaltaan maisema-arvojen säilymistä.
+Valtakunnallisesti merkittävien maisema-alueiden maisemakuvaa, luonnonpiirteitä ja kulttuuripiirteitä kuvataan maisema-aluetyöryhmän mietintö II 66/1992 -julkaisussa. Paimionjokilaakson valtakunnallisesti merkittävä maisema-alue ulottuu Paimionlahdelta ylös jokivartta aina Kirkonkylään asti. Alueen pinta-ala on noin 6 000 hehtaaria. Tarvasjoen Vistan osayleiskaavassa osoitettujen P-1-aluevarausten yhteenlaskettu pinta-ala on 6,8 hehtaaria ja TP-1-alueen pinta-ala on noin 21 hehtaaria, yhteensä 27,8 hehtaaria. Kun otetaan huomioon valtakunnallisesti merkittävän maisema-alueen laajuus, eivät osayleiskaavassa osoitetut aluevaraukset merkittävästi heikennä alueen luonnetta tai maiseman hahmotettavuutta. Aluevarausten pinta-ala on vain noin 0,4 % koko maisema-alueen pinta-alasta.
+Ympäristöministeriön Arvokkaat maisema-alueet -julkaisussa on todettu suurimmiksi maisemahäiriöiksi muutamat harkitsemattomasti sijoitetut uudet rakennukset taajamien lähistöllä. Lisäksi on mainittu alueen poikki kulkevan valtatien ja moottoritien pirstovan entisestään aiemmin yhtenäistä jokilaaksoa. Maisema-arvot ovat siis tällä kohtaa heikentyneet jo maantien 110 ja erityisesti E18 moottoritien rakentamisen takia. Tämän vuoksi alueen on arvioitu kestävän myös muuta rakentamista. Peltoaukean luonne tällä kohtaa on arvioitu toisarvoiseksi.
+Paimionjoen rannassa valtatien (mt 110) suuntaisesti sekä valtatien ja Sauvontien - Kravinkujan liittymässä on jo vuosikymmeniä ollut rakennettua ympäristöä, johon osayleiskaavassa osoitetut P-1-aluevaraukset liittyvät. Alueelle sijoittuu jo olemassa olevaa rakennuskantaa, kuten risteyksessä olevat huoltoasema ja entinen kauppa/posti sekä aivan jokivarressa teollisuusrakennuksia, joiden kehittämisen kaupunginvaltuuston hyväksymä osayleiskaava mahdollistaa. Kaupungin aiemmassa vahvis­tamattomassa osayleiskaavassa alueella on ollut P-1-merkinnät. TP-1-aluevaraukset laajentavat Tiemestarintien varressa olevaa yhdyskunta­rakennetta Kravinkujan suuntaan.
+Maisema-arvojen lisäksi huomioon onkin otettava myös kunnan elinkeinoelämän toimintaedellytysten turvaaminen. TP-1- ja P-1-aluevaraukset sijoittuvat liikenteellisesti edullisesti pääteiden risteykseen. Alueiden osoittaminen rakentamiselle ei vaaranna luonnonympäristön arvoja. Alueella oleva historiallinen tielinja ja muinaismuistokohde (33, Kerosaaren kankare) sekä näiden vaatimat lähimaisema-alueet/suojavyöhykkeet voidaan ottaa huomioon yleiskaavan yleispiirteisyyttä yksityiskohtaisemmin asemakaavoituksessa. Alueella ei ole muita rakennettuun kulttuuriympäristöön liittyviä arvoja. Kyseessä olevalla kohdalla maisemaan jää edelleen avaruutta, kun maisemaa tarkastellaan aluetta ympäröiviltä korkeammilta maastokohdilta.
+Maasto nousee valtatien liittymästä itään (Salon suuntaan) ollen kohdalla, josta maisema avautuu, noin +20 meren pinnan yläpuolella, kun maasto liittymän kohdalla on noin tasolla +4. Ympäröivät kalliolaet ovat jopa +78 meren pinnan yläpuolella, joten maisemakuvaa ei tällä kohtaa voida kuvata pienipiirteiseksi. TP-1- ja P-1-alueet sijoittuvat joko metsän reunaan, metsäsaarekkeisiin tai olemassa olevan rakennuskannan yhteyteen. TP-1-alueen rakennettavien ja rakentamattomien alueiden suhde ratkeaa yksityiskohtaisemmin asemakaavoituksella.
+Asemakaavassa voidaan antaa yksityiskohtaisia rakentamistapaa ohjaavia, rakentamista maalaismaisemaan sopeuttavia määräyksiä koskien mm. rakennusten sijoittelua, korkeutta, katon muotoa ja kattokulmaa sekä julkisivumateriaaleja. Siten asemakaavoitukseen liittyvällä yksityiskohtaisemmalla suunnittelulla ja rakentamistapaohjeilla voidaan parantaa rakennetun ympäristön nykytilannetta.
+Arvokkaat maisema-alueet -julkaisussa on mainittu Paimionjokilaakson keskeisinä elementteinä laaja yhtenäinen peltoalue ja sen perinteinen asutus. Maisema-alueen pohjoisosille leimaa-antavia ovat ryhmäkylät ja eteläosia luonnehtivat komeat kartanot peltoineen. Julkaisussa mainitaan maisema-alueen kulttuuripiirteinä ainoastaan Paimion kirkonkylän etelä-puolisten alueiden vanha kartanokulttuuri (Wiksbergin ja Meltolan kartanot), jotka sijoittuvat maantien 110 eteläpuolelle noin 2 kilometrin etäisyydelle P-1- tai TP-1-alueista.
+Osayleiskaavassa osoitetuilla aluevarauksilla ei vaikuteta myöskään näiltä kartanoilta avautuviin peltonäkymiin tai maisemanäkymiin kartanoille päin. Osayleiskaavassa osoitetuista aluevarauksista P-1 ja TP-1 huolimatta alueella säilyy runsaasti pitkiä ja laajoja peltonäkymiä eri puolilla osayleiskaava-aluetta. Myös kyseisten aluevarausten kohdalla avautuu pitkä näkymä liikuttaessa maantietä 110 Salon suunnasta Turkuun päin. Aluevarausten mukainen rakentaminen ei tule estämään tätä avointa näkymää, sillä näkymä avautuu mäeltä jo ennen liittymäaluetta, joka sijoittuu maaston alemmalle kohdalle.
+Turun hallinto-oikeuden päätös kohdistuu lisäksi asumisen reservialueeseen (AP/res/sy), joka sijoittuu kaava-alueen pohjoisosaan Hellbergintien ja Hossilantien jatkeille, metsän puolelle pellon ja metsän rajalle. Kaupunginvaltuuston hyväksymän osayleiskaavan mukainen reservialueeksi merkitty pientaloalue on voimassa olevan maakuntakaavan mukainen sijoittuen maakuntakaavassa taajamatoimintojen alueelle.
+Alueelle sijoittuu muinaismuistoalue (Hellberginkylä), mikä osaltaan rajoittaa AP/res/sy-alueen hyödyntämistä asuinrakentamiseen. Alueen yksityiskohtainen suunnittelu tehdään asemakaavoituksella, jolloin otetaan huomioon myös muinaismuistoalueen säilyttäminen osayleiskaavassa annettujen määräysten mukaisesti. AP/res/sy-aluevarauksen pohjoisrajan rajauksessa on otettu huomioon metsän säilyminen pohjoispuolisen peltoalueen suuntaan. Rakentamisen rajautuminen länsirajalla pellon suuntaan voidaan tutkia yksityiskohtaisemmassa suunnittelussa. Nykyisellään alue on taimikkoa, eikä siten merkittäviä maisema-arvoja menetetä. Alueelle on sijoitettavissa noin 6 - 10 omakotitalotonttia siten, että pellon suuntaan voidaan istuttaa puustoinen vyöhyke maisematilaa rajaamaan. Paimiolaisille peltomaisemille on tyypillistä myös kookkaat kuusiaidat.
+Aluevaraus mahdollistaa yhdyskuntarakenteen vähäisen laajentamisen jo olemassa olevaan rakenteeseen tukeutuen ja olemassa olevia verkostoja hyödyntäen. Osayleiskaavan mukainen reservialueeksi merkitty pien­taloalue on maakuntakaavan mukainen ja alueena vähäinen, eikä sen toteuttaminen uhkaa valtakunnallisesti merkittäviä Paimionjokilaakson maisema-alueen arvoja.
+Varsinais-Suomen ELY-keskus
+                     on antanut lausunnon, jossa se on vaatinut valituksen hylkäämistä ja lausunut muun ohella seuraavaa:
+
+Elinkeinoelämän toimintaedellytykset on huomioitu yleiskaavoitusta ohjaavassa Turun kaupunkiseudun maakuntakaavassa osoittamalla työpaikka-alueita kauemmas Paimionjokilaaksosta arvokkaan maisema-alueen ulkopuolella.
+Paimio-Seura ry
+                     on antanut selityksen, jossa se on vaatinut valituksen hylkäämistä.
+
+Turun maakuntamuseo
+                     on antanut selityksen, jossa se on vaatinut valituksen hylkäämistä.
+
+Paimion kaupunginhallitus
+                     on antanut vastaselityksen.
+
+Korkeimman hallinto-oikeuden ratkaisu
+Korkein hallinto-oikeus on tutkinut asian. Valitus hylätään. Hallinto-oikeuden päätöstä ei muuteta.
+Perustelut
+Kun otetaan huomioon edellä ilmenevät hallinto-oikeuden päätöksen perustelut ja perusteluissa mainitut oikeusohjeet sekä korkeimmassa hallinto-oikeudessa esitetyt vaatimukset ja asiassa saatu selvitys, hallinto-oikeuden päätöksen muuttamiseen ei ole perusteita.
+Asian ovat ratkaisseet presidentti Pekka Vihervuori sekä hallintoneuvokset Hannu Ranta, Tuomas Lehtonen, Mika Seppälä ja Janne Aer. Asian esittelijä Esa Hakkola.
