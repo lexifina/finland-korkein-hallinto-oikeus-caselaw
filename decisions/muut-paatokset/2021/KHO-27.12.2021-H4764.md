@@ -1,0 +1,47 @@
+---
+identifier: "KHO 27.12.2021/H4764"
+ecli: "ECLI:FI:KHO:2021:H4764"
+court: "Korkein hallinto-oikeus"
+kind: "muut-paatokset"
+docket: "21815/2021"
+decided: "2021-12-27"
+volume: "H4764"
+keywords: "Kymenlaakson maakuntakaavaa 2040 koskeva valituslupahakemus"
+source_url: "https://www.finlex.fi/fi/oikeuskaytanto/korkein-hallinto-oikeus/muut-paatokset/2021/H4764"
+source: "Finlex (www.finlex.fi), Ministry of Justice of Finland"
+licence: "CC BY 4.0"
+source_retrieved: "2026-11-07"
+---
+
+# KHO 27.12.2021/H4764
+
+## Suomeksi
+
+Asia
+                     Maakuntakaavaa koskeva valituslupahakemus
+
+Muutoksenhakija
+                     Luonnollisesti Pyhtää ry
+
+Päätös, jota muutoksenhaku koskee
+Itä-Suomen hallinto-oikeus 21.4.2021 nro 21/0043/3
+
+Asian vaiheet
+Kymenlaakson liiton maakuntavaltuusto
+                         on 15.6.2020 (§ 5) hyväksynyt Kymenlaakson maakuntakaavan 2040.
+
+Itä-Suomen hallinto-oikeus
+                         on muutoksenhaun kohteena olevalla päätöksellään hylännyt muiden ohella Luonnollisesti Pyhtää ry:n valituksen maakuntavaltuuston päätöksestä.
+
+Luonnollisesti Pyhtää ry
+                         on pyytänyt lupaa valittaa hallinto-oikeuden päätöksestä.
+
+Korkeimman hallinto-oikeuden ratkaisu
+Valituslupahakemus hylätään. Korkein hallinto-oikeus ei siten anna ratkaisua valitukseen.
+Perustelut
+Oikeudenkäynnistä hallintoasioissa annetun lain 111 §:n 1 momentin mukaan valituslupa on myönnettävä, jos:
+1) lain soveltamisen kannalta muissa samanlaisissa tapauksissa tai oikeuskäytännön yhtenäisyyden vuoksi on tärkeätä saattaa asia korkeimman hallinto-oikeuden ratkaistavaksi;
+2) asian saattamiseen korkeimman hallinto-oikeuden ratkaistavaksi on erityistä aihetta asiassa tapahtuneen ilmeisen virheen vuoksi; tai
+3) valitusluvan myöntämiseen on muu painava syy.
+Sen perusteella, mitä muutoksenhakija on esittänyt ja mitä asiakirjoista muutoin ilmenee, asian saattamiseen korkeimman hallinto-oikeuden ratkaistavaksi ei ole valitusluvan myöntämisen perustetta.
+Asian ovat ratkaisseet oikeusneuvokset Riitta Mutikainen, Tuomas Kuokkanen ja Robert Utter. Asian esittelijä Petri Hellstén.
